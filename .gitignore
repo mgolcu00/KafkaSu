@@ -3,3 +3,7 @@ build
 npm-debug.log
 .env
 .DS_Store
+lib/broker.js
+lib/consumer.js
+lib/producer.js
+lib/kafka.js
